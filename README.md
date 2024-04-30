@@ -26,7 +26,7 @@ Here are some of the languages and tools I'm proficient in:
 
 Check out some of my projects:
 
-- [Project 1]([https://github.com/your-username/project-1](https://github.com/rxhuljoshi10/TravVo)): Made an android application for online bus booking for Pune PMPML Buses.
-- [Project 2]([https://github.com/your-username/project-2](https://github.com/rxhuljoshi10/Jarvis)): This is a simple desktop assistant that gives some response to your queries.
+- [TravVo](https://github.com/rxhuljoshi10/TravVo) : Made an android application for online bus booking for Pune PMPML Buses.
+- [Jarvis](https://github.com/rxhuljoshi10/Jarvis) : This is a simple desktop assistant that gives some response to your queries.
 
 Feel free to explore my repositories and reach out if you'd like to collaborate or discuss any projects!
