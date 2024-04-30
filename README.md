@@ -6,7 +6,7 @@ I'm a passionate programmer with a strong foundation in computer science. My goa
 - 🌱 I'm proficient in various programming languages, including Python, Java, Golang, R, C, C++, PHP, PostgreSQL, and JavaScript.
 - 💻 Coding is not just a hobby, it's my passion. I love diving deep into algorithms, data structures, and solving challenging problems.
 - 🚀 One of my strengths is my ability to quickly grasp new programming languages. With a solid understanding of core programming concepts, I can adapt and learn new technologies rapidly.
-- 📫 You can reach me at [your-=joshirahul7040@gmail.com](mailto:joshirahul7040@gmail.com) or connect with me on [LinkedIn](www.linkedin.com/in/rahuljoshi10).
+- 📫 You can reach me at [joshirahul7040@gmail.com](mailto:joshirahul7040@gmail.com) or connect with me on [LinkedIn](www.linkedin.com/in/rahuljoshi10).
 
 ## Languages and Tools
 
