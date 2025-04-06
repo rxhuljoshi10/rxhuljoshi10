@@ -10,16 +10,19 @@ I'm a passionate programmer with a strong foundation in computer science. My goa
 
 ## Languages and Tools
 
-Here are some of the languages and tools I'm proficient in:
-
-- Python
+Here are some of the Languages and Tools I'm proficient in:
 - Java
+- Spring Boot
+- Python
+- MySql
+- PostgreSQL
+- React
+- AWS
+- Docker
 - Golang
 - R
-- C
-- C++
+- C / C++
 - PHP
-- PostgreSQL
 - JavaScript
 
 ## Projects
