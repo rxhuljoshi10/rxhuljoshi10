@@ -51,15 +51,14 @@
 
 ### 🧩 Notable Projects
 
+💬 **Fitness App Microservices**  
+A microservice-based fitness tracking platform built with Spring Boot, Spring Cloud, and React. It captures user activities, generates AI-backed recommendations, and exposes everything through an API Gateway secured with JWT (Keycloak). Service discovery is via Eureka, configuration via Spring Cloud Config, messaging via RabbitMQ, storage in PostgreSQL and MongoDB. 
+🔗 [Project Link](https://github.com/rxhuljoshi10/Fitness-Microservice)
+
 📱 **TravVO**  
 _An Android app for booking PMPML buses and Pune Metro online_  
 Tech Stack: Java, XML, SQLite, Firebase, Android Studio  
 🔗 [Project Link](https://github.com/rxhuljoshi10/TravVo)
-
-💬 **AI Email Reply Generator**  
-_A web + browser extension that generates intelligent email responses using tone-based prompts_  
-Tech Stack: Java, Spring Boot, React, Spring AI  
-🔗 [Project Link](https://smart-email-reply-generator.netlify.app/)
 
 ---
 
