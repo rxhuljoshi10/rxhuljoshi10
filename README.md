@@ -1,68 +1,97 @@
 <h1 align="center">Hi there, I'm Rahul Joshi 👋</h1>
+
 <p align="center">
-  🧑‍💻 Software Developer | 📱 Android Enthusiast | ☁️ Cloud & AI Learner  
+  🧑‍💻 Backend Developer &nbsp;|&nbsp; ☁️ Microservices & Distributed Systems &nbsp;|&nbsp; ☁️ Cloud & AI Learner 
 </p>
 
 ---
 
-### 🚀 About Me
-
-🎓 MCA student at MIT ADT University, Pune (2024–2026)  
-👨‍💻 Passionate about full-stack and mobile app development  
-🛠 Built **TravVO**, an award-winning Android app for public transport booking in Pune  
-📨 Created an **AI Email Reply Generator** integrating Spring AI and Gmail extension  
-💡 Solved 250+ DSA problems on LeetCode to strengthen problem-solving skills  
-🌱 Currently learning Docker, AWS, and modern development practices
-
----
-
-### 🛠️ Tech Stack
-
-**Languages:**  
-![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
-![Go](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white)
-
-**Frameworks & Libraries:**  
-![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat&logo=spring-boot&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
-
-**Mobile:**  
-![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=flat&logo=android-studio&logoColor=white)
-![XML](https://img.shields.io/badge/XML-FF6600?style=flat&logo=xml&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
-
-**Databases:**  
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
-
-**Tools & Platforms:**  
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
+🚀 <b>About Me</b>  
+🎓 MCA Student at MIT ADT University, Pune (2024–2026)  
+💼 Backend Developer Intern at Arealis Networks — built scalable microservices for an AI agent marketplace  
+🛠 Built <b>TravVO</b>, an award-winning Android app for public transport booking in Pune  
+⚙️ Passionate about designing scalable backend systems using event-driven architecture  
+🧩 Solved 400+ DSA problems on LeetCode  
+🌱 Currently deepening expertise in distributed systems, cloud infrastructure, and system design  
 
 ---
 
-### 🧩 Notable Projects
+🛠️ <b>Tech Stack</b>  
 
-💬 **Fitness App Microservices**  
-A microservice-based fitness tracking platform built with Spring Boot, Spring Cloud, and React. It captures user activities, generates AI-backed recommendations, and exposes everything through an API Gateway secured with JWT (Keycloak). Service discovery is via Eureka, configuration via Spring Cloud Config, messaging via RabbitMQ, storage in PostgreSQL and MongoDB. 
-🔗 [Project Link](https://github.com/rxhuljoshi10/Fitness-Microservice)
+<b>Languages:</b><br>
+<img src="https://img.shields.io/badge/Java-007396?style=flat&logo=openjdk&logoColor=white"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white"/>
+<img src="https://img.shields.io/badge/C%2FC%2B%2B-00599C?style=flat&logo=c&logoColor=white"/>
 
-📱 **TravVO**  
-_An Android app for booking PMPML buses and Pune Metro online_  
-Tech Stack: Java, XML, SQLite, Firebase, Android Studio  
-🔗 [Project Link](https://github.com/rxhuljoshi10/TravVo)
+<b>Backend & Frameworks:</b><br>
+<img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat&logo=spring-boot&logoColor=white"/>
+<img src="https://img.shields.io/badge/Spring%20Cloud-6DB33F?style=flat&logo=spring&logoColor=white"/>
+<img src="https://img.shields.io/badge/Spring%20Security-6DB33F?style=flat&logo=springsecurity&logoColor=white"/>
+<img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black"/>
+
+<b>Messaging & Architecture:</b><br>
+<img src="https://img.shields.io/badge/Apache%20Kafka-231F20?style=flat&logo=apachekafka&logoColor=white"/>
+<img src="https://img.shields.io/badge/RabbitMQ-FF6600?style=flat&logo=rabbitmq&logoColor=white"/>
+<img src="https://img.shields.io/badge/gRPC-244c5a?style=flat&logo=grpc&logoColor=white"/>
+
+<b>Security:</b><br>
+<img src="https://img.shields.io/badge/JWT-000000?style=flat&logo=jsonwebtokens&logoColor=white"/>
+<img src="https://img.shields.io/badge/OAuth2-EB5424?style=flat&logo=auth0&logoColor=white"/>
+<img src="https://img.shields.io/badge/Keycloak-4D4D4D?style=flat&logo=keycloak&logoColor=white"/>
+
+<b>Databases:</b><br>
+<img src="https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white"/>
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white"/>
+<img src="https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white"/>
+<img src="https://img.shields.io/badge/SQLite-003B57?style=flat&logo=sqlite&logoColor=white"/>
+
+<b>Cloud & DevOps:</b><br>
+<img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white"/>
+<img src="https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat&logo=github-actions&logoColor=white"/>
+<img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black"/>
+
+<b>Tools:</b><br>
+<img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white"/>
+<img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black"/>
 
 ---
 
-### 📊 GitHub Stats
+🧩 <b>Notable Projects</b>  
+
+⚙️ <b>Patient Management Microservice Platform</b>  
+Built a production-grade microservices system with API Gateway, authentication, patient, and billing services.  
+• Implemented Kafka-based event-driven communication and gRPC for inter-service calls  
+• Integrated Redis caching to improve performance  
+• Containerized services using Docker with CI/CD via GitHub Actions  
+🔗 <i>Add your GitHub link here</i>  
+
+🏋️ <b>AI Fitness Tracker</b>  
+Designed a scalable fitness platform with AI-powered recommendations.  
+• Used Eureka for service discovery and RabbitMQ for async messaging  
+• Implemented secure authentication using Keycloak and JWT  
+• Built responsive frontend using React with real-time insights  
+🔗 <i>Add your GitHub link here</i>  
+
+📱 <b>TravVO — Award-Winning Android App</b>  
+Developed a public transport booking app for Pune (PMPML + Metro).  
+• Enabled ticket booking, route search, and wallet-based payments  
+• Built using Java, XML, SQLite, and Firebase  
+• Won 1st place in multiple college competitions  
+🔗 <i>Add your GitHub link here</i>  
+
+---
+
+🏆 <b>Achievements</b>  
+🥇 Winner — Project Presentation, TechnoFest @ Sarhad College (TravVO)  
+🥇 Winner — Ideathon @ MIT ADT University  
+💡 Solved 400+ DSA problems across platforms  
+
+---
+
+📊 <b>GitHub Stats</b>  
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=rxhuljoshi10&show_icons=true&theme=tokyonight" width="48%"/>
@@ -71,12 +100,12 @@ Tech Stack: Java, XML, SQLite, Firebase, Android Studio
 
 ---
 
-### 📫 Connect With Me
+📫 <b>Connect With Me</b>  
 
-- 📧 joshirahul7040@gmail.com  
-- 🔗 [LinkedIn](https://www.linkedin.com/in/rahul-joshi-16)  
-- 📍 Pune, India  
+📧 joshirahul7040@gmail.com  
+🔗 <i>Add your LinkedIn profile link here</i>  
+📍 Pune, India  
 
 ---
 
-*Thanks for visiting my profile! Let's build something amazing together 🚀*
+⭐ <b>Thanks for visiting my profile! Let's build something impactful together 🚀</b>
