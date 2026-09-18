@@ -12,7 +12,7 @@
 🛠 Built <b>TravVO</b>, an award-winning Android app for public transport booking in Pune  
 ⚙️ Passionate about designing scalable backend systems using event-driven architecture  
 🧩 Solved 400+ DSA problems on LeetCode  
-🌱 Currently deepening expertise in distributed systems, cloud infrastructure, and system design  
+🌱 Currently deepening expertise in system design, cloud infrastructure, and AI-powered applications.
 
 ---
 
@@ -59,28 +59,29 @@
 
 ---
 
-🧩 <b>Notable Projects</b>  
+### 🧩 <b>Notable Projects</b>  
 
-⚙️ <b>Patient Management Microservice Platform</b>  
-Built a production-grade microservices system with API Gateway, authentication, patient, and billing services.  
-• Implemented Kafka-based event-driven communication and gRPC for inter-service calls  
-• Integrated Redis caching to improve performance  
-• Containerized services using Docker with CI/CD via GitHub Actions  
-🔗 <i>Add your GitHub link here</i>  
+**⚙️ Distributed Microservice Backend Platform**
+-  Architected a 5-service Spring Boot microservices platform using REST for client-facing APIs, gRPC over HTTP/2 for low-latency internal communication, and Kafka for asynchronous event-driven messaging.
+-  Added a Redis caching layer with 10-minute TTL on read-heavy endpoints, reducing repeated database queries by ~40% and improving read throughput.
+-  Deployed and orchestrated all 5 services on Kubernetes, configuring pods and horizontal scaling for reliable production-like operation.   
+🔗 <i>[Repo](https://github.com/rxhuljoshi10/Distributed-Microservice-Backend-Platform)</i> <br><br>
 
-🏋️ <b>AI Fitness Tracker</b>  
-Designed a scalable fitness platform with AI-powered recommendations.  
-• Used Eureka for service discovery and RabbitMQ for async messaging  
-• Implemented secure authentication using Keycloak and JWT  
-• Built responsive frontend using React with real-time insights  
-🔗 <i>Add your GitHub link here</i>  
 
-📱 <b>TravVO — Award-Winning Android App</b>  
-Developed a public transport booking app for Pune (PMPML + Metro).  
-• Enabled ticket booking, route search, and wallet-based payments  
-• Built using Java, XML, SQLite, and Firebase  
-• Won 1st place in multiple college competitions  
-🔗 <i>Add your GitHub link here</i>  
+**Sentinel AI - Autonomous Incident Investigation Agent**
+-  Built an autonomous incident investigation platform using specialized AI agents and tools to analyze logs, incident descriptions, and historical context, generating structured Root Cause Analysis (RCA) reports reducing manual investigation time from 30–60 minutes to 5–10 minutes. 
+-  Designed a 5-agent LangGraph workflow comprising Planning, Log Analysis, RAG Retrieval, Service Memory, and RCA synthesis for structured multi-step incident investigation.
+-  Implemented RAG with ChromaDB for semantic retrieval of historical incidents and built an automated RCA evaluation framework using semantic similarity metrics and LLM-as-a-Judge scoring.
+-  Shipped a full-stack dashboard with Next.js, Redis-backed sessions, JWT authentication, and Docker Compose, enabling one-command local deployment of the complete platform.
+🔗 <i>[Repo](https://github.com/rxhuljoshi10/Sentinel-AI-Investigation-Engine)</i>  <br><br>
+
+
+**📱 TravVO — Award-Winning Android App**
+-  Developed a public transport booking app for Pune (PMPML + Metro).
+-  Enabled ticket booking, route search, and wallet-based payments.
+-  Built using Java, XML, SQLite, and Firebase
+-  Won 1st place in multiple college competitions  
+🔗 <i>[Repo](https://github.com/rxhuljoshi10/TravVo)</i>  
 
 ---
 
@@ -103,7 +104,7 @@ Developed a public transport booking app for Pune (PMPML + Metro).
 📫 <b>Connect With Me</b>  
 
 📧 joshirahul7040@gmail.com  
-🔗 <i>Add your LinkedIn profile link here</i>  
+🔗 <i>https://www.linkedin.com/in/rahuljoshi10</i>  
 📍 Pune, India  
 
 ---
